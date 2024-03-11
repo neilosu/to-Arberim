@@ -1,4 +1,4 @@
-# vocabulary-backend
+# vocabulary-microservice
 
 # start server
 ```bash
